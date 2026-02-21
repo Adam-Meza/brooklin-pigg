@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 0.5px black solid;
+  padding: 30px 50px;
+  width: clamp(500px, 85vw, 2000px);
+
+  .link-wrapper {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  h1 {
+    margin: 0;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 30px;
+    padding: none;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+
+    span {
+      margin-left: 10px;
+    }
+  }
+}
