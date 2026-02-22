@@ -1,4 +1,3 @@
-import React from "react";
 import laptop from "../../assets/laptop-bk.jpg";
 import "./Error.css";
 
