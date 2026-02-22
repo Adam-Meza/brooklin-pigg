@@ -11,7 +11,7 @@ const Work = () => {
     <main className="work-view-wrapper">
       <nav className="side-bar">
         {work.map((work) => (
-          <a href={`work/${work.key}`}>{work.title}</a>
+          <a href={`${work.key}`}>{work.title}</a>
         ))}
       </nav>
       <section className="work-wrapper">
