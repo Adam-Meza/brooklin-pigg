@@ -2,7 +2,7 @@ const work = [
   {
     title: "For Every Year You Don't Have",
     key: "for-every-year-you-dont-have",
-    year: "2005",
+    year: "2025",
     content: [
       `Yesterday I went to a reading that focused on joy. A poet was the last person to read. He read two poems before he noted that his poems didn’t contain that much joy. He said, Beware asking a poet to read about joy. The audience laughed. There she is.`,
       `I didn’t understand why my eyes were watering while I made coffee this morning. The easiest answer was that it’s my birthday and I must be unsatisfied with myself. But then it’s 4 p.m. and I’m still crying while eating miso soup and drinking sake on the rooftop of Westfield mall and my sister tells me that I can tell her what’s running through my mind.`,
@@ -199,7 +199,7 @@ I tell myself to breathe then. Is it like a death only because there is an absen
 
   {
     title: "Some Waste is Worth Admiring",
-    year: "2005",
+    year: "2025",
     key: "some-waste-is-worth-admiring",
     content: [
       `
@@ -278,7 +278,7 @@ At the beginning of the year, I started writing a piece about garnishes and thei
   },
   {
     title: "My mind goes to the men",
-    year: "2005",
+    year: "2025",
     key: "my-mind-goes-to-the-men",
     content: [
       `
