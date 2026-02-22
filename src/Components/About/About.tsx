@@ -1,4 +1,3 @@
-import React from "react";
 import helmet from "../../assets/helmet.jpg";
 import "./About.css";
 

@@ -1,6 +1,4 @@
-import React from "react";
 import "./Header.css";
-import { TbPig } from "react-icons/tb";
 
 const Header = () => {
   return (

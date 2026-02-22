@@ -6,7 +6,6 @@
   justify-content: center;
   align-items: center;
   gap: 50px;
-  background-color: rgb(244, 242, 230);
 
   .about-headshot {
     height: 70vh;
@@ -19,7 +18,6 @@
     justify-content: flex-start;
     align-items: center;
     width: 400px;
-    background-color: rgb(244, 242, 230);
   }
 }
 
