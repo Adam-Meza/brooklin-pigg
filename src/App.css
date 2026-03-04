@@ -7,11 +7,12 @@ html {
 body {
   margin: 0px;
   background-color: rgb(244, 242, 230);
+  height: 100vh;
 }
 
 p,
 a {
-  font-family: "Gowun Dodum", sans-serif;
+  font-family: "Commissioner", sans-serif;
   font-weight: 400;
   font-style: normal;
   text-decoration: none;
@@ -34,9 +35,9 @@ a:hover {
 
 h2 {
   border-bottom: 1px black solid;
-  font-family: "Montserrat Alternates", sans-serif;
-  font-style: italic;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
   font-size: 35px;
-  padding: none;
-  margin: none;
+  padding: 0px;
+  margin: 15px 0px;
 }

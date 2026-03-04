@@ -5,6 +5,7 @@ import Header from "./Components/Header/Header";
 import { Route, Routes } from "react-router";
 import Contact from "./Components/Contact/Contact";
 import Error from "./Components/Error/Error";
+import Cv from "./Components/CV/CV";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<About />} />
         <Route path="work/:key" element={<Work />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/cv" element={<Cv />} />
         <Route path="*" element={<Error />} />
       </Routes>
     </main>

@@ -29,3 +29,19 @@
     }
   }
 }
+
+.dropdown {
+  background-color: rgb(244, 242, 230);
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+@media (max-width: 600px) {
+  .header .link-wrapper {
+    justify-content: center;
+    width: 50px;
+    border: red 1px solid;
+  }
+}

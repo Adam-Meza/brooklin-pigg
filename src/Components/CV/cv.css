@@ -1,0 +1,62 @@
+.cv-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 60vh;
+
+  h2 {
+    margin: 10px 15px;
+    font-size: 25px;
+    width: 100px;
+  }
+}
+
+.exp-box-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  width: 80vw;
+}
+
+.exp-card-wrapper {
+  font-family: "Commissioner", sans-serif;
+  width: 450px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+
+  h3.title {
+    font-family: "Fira sans", sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    margin: 0px;
+    font-size: 24px;
+  }
+
+  .company {
+    font-style: italic;
+    margin-right: 10px;
+  }
+
+  .year {
+    width: 100px;
+    gap: 5px;
+  }
+
+  .exp-details-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10px;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .exp-box-wrapper {
+    flex-direction: column;
+  }
+}

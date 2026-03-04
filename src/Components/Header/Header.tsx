@@ -1,18 +1,54 @@
 import "./Header.css";
+import * as React from "react";
+import { DropdownMenu, MenuItem } from "@itwin/itwinui-react";
 
 const Header = () => {
+  const [width, setWidth] = React.useState(window.innerWidth);
+
+  React.useEffect(() => {
+    const handleResize = () => {
+      setWidth(window.innerWidth);
+    };
+
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
+  const dropdownLinks = (close: () => void) => [
+    <MenuItem key={0} onClick={() => close()}>
+      <a href="/">about</a>
+    </MenuItem>,
+    <MenuItem key={1} onClick={() => close()}>
+      <a href="/work/for-every-year-you-dont-have">work</a>
+    </MenuItem>,
+    <MenuItem key={2} onClick={() => close()}>
+      <a href="/cv">CV</a>
+    </MenuItem>,
+    <MenuItem key={3} onClick={() => close()}>
+      <a href="/contact">contact</a>
+    </MenuItem>,
+  ];
+
   return (
     <header className="header">
-      <h1>
-        Brooklin Pigg
-        {/* <span className="pig-icon">
-          <TbPig />
-        </span> */}
-      </h1>
+      <h1>Brooklin Pigg</h1>
       <div className="link-wrapper">
-        <a href="/">about</a>
-        <a href="/work/for-every-year-you-dont-have">work</a>
-        <a href="/contact">contact</a>
+        {width < 600 && (
+          <DropdownMenu menuItems={dropdownLinks} className="dropdown">
+            {<div>test</div>}
+          </DropdownMenu>
+        )}
+        {width >= 600 && (
+          <>
+            <a href="/">about</a>
+            <a href="/work/for-every-year-you-dont-have">work</a>
+            <a href="/cv">CV</a>
+            <a href="/contact">contact</a>
+          </>
+        )}
       </div>
     </header>
   );

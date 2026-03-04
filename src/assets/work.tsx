@@ -49,7 +49,9 @@ I’ve missed you a lot today. I’m smiling when I think about telling you this
   {
     title: "A Name Belongs to One Person",
     year: "2025",
+    published: true,
     key: "a-name-belongs-to-one-person",
+    href: "https://phoebejournal.com/a-name-belongs-to-one-person/",
     content: [
       `My mom started dating a man named Elliot when my friend Elliot died. If I asked her for the timeline, I’m sure she would remind me that she was seeing her Elliot a few weeks or even months before mine died. But when Elliot died, I became aware that my mom was seeing someone named Elliot. 
 `,
