@@ -47,6 +47,140 @@ I’ve missed you a lot today. I’m smiling when I think about telling you this
     ],
   },
   {
+    title: "Every morning I forget how it is",
+    year: "2025",
+    key: "every-morning",
+    content: [
+      `
+      I see couples getting coffee together, the inseparable ones who rub each other’s knees while they wait. The waitress knows something is off at my table. I’m a waitress and I always know.
+`,
+      `
+Every morning I forget how it is. It’s been years since I worked a brunch shift. Pigeons sense my presence and swell up into the sky, leaving me to my feet. I watch the smoke mount in great strides above the city.
+`,
+      `
+My new coworker presents a game to pass the time. So you are walking in the woods with five animals: a lamb, a lion, a horse, a cow, and a monkey. Now you arrive at a sacrificial point and need to let go of one of them. This repeats four times. I let them go in this order: lamb, monkey, cow, horse. The lion survives. He tells me that the lion represents pride. The lamb represents love.
+`,
+      `
+Oh.
+`,
+      `
+I tell them the game I played at the brunch shifts I worked when I lived in Boston. It’s called Stoplight. Line up a shot each of Green Chartreuse, Yellow Chartreuse, and Campari. Go.
+`,
+      `
+I wanted to get rid of the monkey first but I thought it might come in handy later. But it seemed that my journey out of the woods and to home didn’t contain any obstacles other than letting go. So the monkey became annoying. Get rid of it. He told me that the monkey represents the inner child and/or family.
+`,
+      `
+“How can it be both?” I asked him.
+`,
+      `
+“I thought it was family but then someone told me it was inner child,” he said.
+`,
+      `
+I took the lion home with me. I’ve taken home worse.
+`,
+      `
+An old coworker of mine in Boston used to ask guests about their five year plans while they sat at the bar. It always caused them to freeze. It always made us laugh.
+`,
+      `
+I saw this coworker as two people: his true self then the person who performs his actions. I saw who he could be if he got better. When it got really bad, he said he wanted to get better. The worst part about loving someone like this is believing them.
+`,
+      `
+The first night I let him crash on my couch I woke up at 6 a.m. to him drinking all the sweet vermouth in my fridge. Stop.
+`,
+      `
+This lion belongs to me. I belong to no one. I felt responsible for him. Since we don’t talk right now, I find myself searching his name online to see if he has died. If it all caught up to him. The last time I did this I found a news article detailing his arrest at a woman’s home that he broke into at 2 a.m. The woman recounted that she saw him ogling her from the driveway the week prior. The title of the article used the word “ogled.” Good word, I thought while I read it. Disgusting action.
+`,
+      `
+The last time I saw him he was pouring himself a drink with shaky hands. He saw me staring at them.
+`,
+      `
+“What?”
+`,
+      `
+“You told me you were sober.”
+`,
+      `
+“It got boring.”
+`,
+      `
+Pause.
+`,
+      `
+“Every morning I forget how it is'“ is the beginning of a Charles Simic poem that is hanging on the wall in the bathroom of an apartment I am half moved into. I read this poem while I dry myself off. After a few showers, it has become watermarked in my vision.
+`,
+      `
+Every morning I forget how it is.
+I watch the smoke mount
+In great strides above the city.
+I belong to no one. 
+`,
+      `
+Then I remember my shoes,
+How I have to put them on,
+How bending over to tie them up
+I will look into the earth.
+`,
+    ],
+  },
+  {
+    title: "When going down, think of water",
+    year: "2025",
+    key: "when-going-down",
+    content: [
+      `
+            My ex said I talk about my exes too much. I told him that he should have married his ex. They met in high school, got together in their mid-20s, but broke up when they reached their 30s. Wouldn’t that have been a beautiful story? It’s pure intimacy, knowing someone since 16.
+`,
+      `
+My high school boyfriend and I got together when we were 16 but broke up before we reached 17. I didn’t care to know him much longer. I remember him pushing my head under the blanket, pushing my head towards his erection. I remember my head as a game of Whac-A-Mole, constantly emerging then being shot down. I remember his mom throwing open the door, yelling. I remember his body stiffening, his hands pulling up his pants, the blanket falling off me. I kept my eyes down while I brushed past her to get to the door. She said something about how I should have known better.
+`,
+      `
+I saw her two years later when she came into the ice cream shop I worked at during my final summer before college. I should have given her the ice cream for free. I should have thanked her for the air.
+`,
+      `
+If I ever mention my high school boyfriend to someone, I tell them that he looked like Tim Allen from The Shaggy Dog when he was the dog. I am not wrong. That ex is not wrong. I do talk about my exes a lot. I’m trying to make sense of it. It is similar to when I complain about my mom telling me the same story again and again. Yes, we know. But maybe on this retelling, she will understand it. On this retelling, maybe I will.
+`,
+      `
+It’s raining today. I wake up to a text from a girl’s boyfriend saying “What a bleak day.” It is not a bleak day to me. I’m from one of the rainiest states! And don’t you have a girlfriend? I say it although I know they are open. I say “I don’t understand that” as often as the woman I served last night said she was from the West Coast.
+`,
+      `
+She said she’s from Seattle. I’m from about 30 minutes north of Seattle. I challenged myself by not saying that to her. Who cares where their bartender is from? But people often ask me when I’m bartending. It’s normally preceded by the, “So if your name is Brooklin, are you from Brooklyn?” I want to roll my eyes every time and sometimes I do. Do you understand how stupid that would be?
+`,
+      `
+“No, I’m not.”
+`,
+      `
+“So why are you named that? Where are you from?”
+`,
+      `
+So I take a breath and go into my story. My dad is from Iowa and my mom is from Washington. Neither of my parents ventured to the East Coast which must be a reason why I did. I almost moved to Brooklyn two years ago and determined that I would have to go by my middle name Briar. Brooklin in Brooklyn felt like the name of a bad TV show.
+`,
+      `
+My parents both liked my name because it could easily be shortened to Brooke. My mom wanted it with an ‘i’ so that no letters went below the line. It also needed to end with an ‘n’ because my mom believed that was a sign of a strong name: her name is Jillian and my older sister’s name is Adison. My sister goes by her abbreviated version, Adee, more often than I go by Brooke. And I was called “Brookie” more often than I liked to be by a restaurant manager who believed it sweetened up our interactions before cutting my hours.
+`,
+      `
+My last name is Pigg. Immediately after ending their marriage, my mom went back to her maiden name. When I was young, plenty of people told me that I must be looking forward to marriage so I could change my last name. That never comforted me because I couldn’t imagine taking someone’s name. And why are you trying to tell me my name is bad? Instead I thought about how I could eventually get implants because I was more fixated on my small chest. I am not comforted by that now. I look at my name and my body similarly in that they are mine so there is no reason to change.
+`,
+      `
+I grew up and got a few boyfriends who told me that they would take my last name. I never offered you that option so why are you proposing to take something from me? I want to have my name and for you to have yours. I have had another man ask me why I was so angry. Do you think this is anger? I looked at him angrily. He was the one who was married yet dating.
+`,
+      `
+I have looked at my actions similarly to how I view my name, my body. They are mine so there is no reason to change. But he was not wrong either. I have become volatile in the search for some exciting, enriching, ever-evolving comfort. I have understood that I’ve stomped on some hearts in the name of independence. I have also understood why it’s easy for women to joke about selling their bodies as they’re often being used regardless of payment. Why am I angry? Why do I look to men for safety when a certain few have infringed upon mine? It is most often the women in my life who have done the saving.
+`,
+      `
+I hold my hand to my heart and feel the heat of honesty. In certain retellings, I want to forgive. I want to lay a story to rest. I have decided to slow down and, as I do, memories enter my hands, my mind, my body with the intensity of a final breath.
+`,
+      `
+When I want to breathe deeply, I think of the ocean then I remember the laundry fumes of a seaside motel. Our dog snapping at our feet. Growling in front of the toilet as he rested on the cold tiles. Tears, lots of tears. Why am I here? Twirling my thin hair in the back of my grandparent’s stop and go sedan. Adee yelling and jumping and running around. I am sitting there, watching her, laughing.
+`,
+      `
+Our dog sniffed for the beach as soon as we crossed the state line into Oregon. The family panted as much as him. Sand stuck on sunscreen legs. Barefoot on new and slightly rough carpet, play fighting. Is that why I want to hit the one I’m with but lightly? Green and brown and orange are my childhood and now in the colors of homes I try to make. I mostly wear blue.
+`,
+      `
+I remember the waves but I don’t remember how I got there, on my stomach in the sand, hands grasping but not doing anything as the rocks got smaller and so did my family. Not my new blue coat. Mom will be so mad. But Mom was yelling at Dad, “Get our daughter, Brian!” Dad was scared of water so Mom rushed in and grabbed me, pulling me up by my sleeve. There are times I should have known better and other times where it was difficult to do anything.
+`,
+    ],
+  },
+  {
     title: "A Name Belongs to One Person",
     year: "2025",
     published: true,

@@ -1,10 +1,8 @@
 .work-view-wrapper {
   width: 100%;
   height: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   overflow: scroll;
   gap: 20px;
 }
@@ -18,9 +16,10 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding-left: 50px;
+  align-items: flex-start;
+  padding-left: clamp(80px, 25%, 130px);
   height: 90%;
-  width: clamp(200px, 25%, 400px);
+  width: clamp(200px, 100%, 400px);
   gap: 15px;
   padding-top: 40px;
 

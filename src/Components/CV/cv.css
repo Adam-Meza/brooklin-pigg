@@ -55,8 +55,10 @@
   }
 }
 
-@media (max-width: 1000px) {
-  .exp-box-wrapper {
+@media (max-width: 1200px) {
+  .exp-box-wrapper,
+  .cv-wrapper {
     flex-direction: column;
+    align-items: center;
   }
 }
