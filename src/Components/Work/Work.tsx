@@ -1,11 +1,11 @@
 import "./Work.css";
 import work from "../../assets/work";
 import { useParams } from "react-router";
-import { DropdownMenu, MenuItem } from "@itwin/itwinui-react";
+// import { DropdownMenu, MenuItem } from "@itwin/itwinui-react";
 import * as React from "react";
 
 const Work = () => {
-  const [width, setWidth] = React.useState(window.innerWidth);
+  const [, setWidth] = React.useState(window.innerWidth);
 
   React.useEffect(() => {
     const handleResize = () => {
@@ -31,7 +31,7 @@ const Work = () => {
     .filter((poem) => !poem.published)
     .map((work) => <a href={`${work.key}`}>{work.title}</a>);
 
-  const dropdownLinks = (close: () => void) => {};
+  // const dropdownLinks = (close: () => void) => {};
 
   return (
     <main className="work-view-wrapper">
