@@ -37,12 +37,21 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+
+  * {
+    padding: 0px 5px;
+  }
+
+  a {
+    display: flex;
+    width: 100px;
+    border: 1px solid red;
+  }
 }
 
 @media (max-width: 600px) {
   .header .link-wrapper {
     justify-content: center;
     width: 50px;
-    border: red 1px solid;
   }
 }

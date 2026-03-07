@@ -1,9 +1,12 @@
 import "./Header.css";
 import * as React from "react";
 import { DropdownMenu, MenuItem } from "@itwin/itwinui-react";
+import { useNavigate } from "react-router";
 
 const Header = () => {
   const [width, setWidth] = React.useState(window.innerWidth);
+
+  const nav = useNavigate();
 
   React.useEffect(() => {
     const handleResize = () => {
@@ -18,17 +21,41 @@ const Header = () => {
   }, []);
 
   const dropdownLinks = (close: () => void) => [
-    <MenuItem key={0} onClick={() => close()}>
-      <a href="/">About</a>
+    <MenuItem
+      key={0}
+      onClick={() => {
+        nav("/");
+        close();
+      }}
+    >
+      About
     </MenuItem>,
-    <MenuItem key={1} onClick={() => close()}>
-      <a href="/work/for-every-year-you-dont-have">Work</a>
+    <MenuItem
+      key={1}
+      onClick={() => {
+        nav("/work/for-every-year-you-dont-have");
+        close();
+      }}
+    >
+      Work
     </MenuItem>,
-    <MenuItem key={2} onClick={() => close()}>
-      <a href="/cv">CV</a>
+    <MenuItem
+      key={2}
+      onClick={() => {
+        nav("/cv");
+        close();
+      }}
+    >
+      CV
     </MenuItem>,
-    <MenuItem key={3} onClick={() => close()}>
-      <a href="/contact">Contact</a>
+    <MenuItem
+      key={3}
+      onClick={() => {
+        nav("/contact");
+        close();
+      }}
+    >
+      Contact
     </MenuItem>,
   ];
 
@@ -38,7 +65,7 @@ const Header = () => {
       <div className="link-wrapper">
         {width <= 600 && (
           <DropdownMenu menuItems={dropdownLinks} className="dropdown">
-            {<div>test</div>}
+            {<div>MENU</div>}
           </DropdownMenu>
         )}
         {width > 600 && (

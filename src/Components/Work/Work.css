@@ -74,3 +74,41 @@
     color: rgb(244, 242, 230);
   }
 }
+
+@media (max-width: 1150px) {
+  .work-view-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px;
+  }
+
+  .work-dropdown-btn {
+    width: 300px;
+    border-radius: 15px;
+    background-color: rgb(57, 36, 21);
+    margin-top: 10px;
+    color: rgb(244, 242, 230);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .work-dropdown {
+    background-color: rgb(244, 242, 230);
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .selected-work {
+    width: 80vw;
+
+    h2 {
+      font-size: 25px;
+    }
+  }
+}
