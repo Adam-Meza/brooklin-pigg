@@ -1,7 +1,6 @@
 import "./Header.css";
 import * as React from "react";
 import { DropdownMenu, MenuItem } from "@itwin/itwinui-react";
-import pig from "../../../public/pig.svg";
 
 const Header = () => {
   const [width, setWidth] = React.useState(window.innerWidth);
@@ -35,9 +34,7 @@ const Header = () => {
 
   return (
     <header className="header">
-      <h1>
-        Brooklin Pigg <img className="icon" src={pig} />
-      </h1>
+      <h1>Brooklin Pigg</h1>
       <div className="link-wrapper">
         {width <= 600 && (
           <DropdownMenu menuItems={dropdownLinks} className="dropdown">

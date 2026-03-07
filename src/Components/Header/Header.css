@@ -29,10 +29,6 @@
     align-items: flex-start;
     gap: 10px;
   }
-
-  .icon {
-    height: 35px;
-  }
 }
 
 .dropdown {

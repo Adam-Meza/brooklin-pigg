@@ -7,6 +7,8 @@ import Contact from "./Components/Contact/Contact";
 import Error from "./Components/Error/Error";
 import Cv from "./Components/CV/CV";
 
+import pig from "../public/pig.svg";
+
 function App() {
   return (
     <main className="main-wrapper">
@@ -18,6 +20,7 @@ function App() {
         <Route path="/cv" element={<Cv />} />
         <Route path="*" element={<Error />} />
       </Routes>
+      <img className="icon" src={pig} />
     </main>
   );
 }
